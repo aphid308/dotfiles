@@ -1,0 +1,4 @@
+URxvt*scrollBar: false
+URxvt*font: xft:Inconsolata:regular:pixelsize=14:antialias=true:hinting=true
+URxvt*boldFont: xft:Inconsolata:regular:pixelsize=14:antialias=true:hinting=true
+
